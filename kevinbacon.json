@@ -1,0 +1,99 @@
+{
+  "movies": [{
+      "cast": [
+        "Steve Guttenberg",
+        "Daniel Stern",
+        "Mickey Rourke",
+        "Kevin Bacon",
+        "Timothy Daly",
+        "Ellen Barkin",
+        "Tim Daly",
+        "Paul Reiser",
+        "Kathryn Dowling",
+        "Michael Tucker",
+        "Jessica James",
+        "Colette Blonigan",
+        "Kelle Kipp",
+        "Clement Fowler",
+        "Claudia Cron"
+      ],
+      "title": "Diner"
+    },
+    {
+      "cast": [
+        "Kevin Bacon",
+        "Lori Singer",
+        "Dianne Wiest",
+        "John Lithgow",
+        "Chris Penn",
+        "Sarah Jessica Parker",
+        "John Laughlin",
+        "Elizabeth Gorcey",
+        "Frances Lee McCain",
+        "Jim Youngs",
+        "Timothy Scott"
+      ],
+      "title": "Footloose"
+    },
+    {
+      "title": "Flatliners",
+      "cast": [
+        "Kiefer Sutherland",
+        "Julia Roberts",
+        "William Baldwin",
+        "Oliver Platt",
+        "Kevin Bacon",
+        "Kimberly Scott",
+        "Joshua Rudoy",
+        "Benjamin Mouton",
+        "Hope Davis",
+        "Patricia Belcher",
+        "Beth Grant"
+      ]
+    },
+    {
+      "title": "Eat Pray Love",
+      "cast": [
+        "Julia Roberts",
+        "James Franco",
+        "Richard Jenkins",
+        "Viola Davis",
+        "Billy Crudup",
+        "Javier Bardem",
+        "Sophie Thompson",
+        "Mike O'Malley",
+        "Christine Hakim",
+        "Arlene Tur",
+        "Hadi Subiyanto",
+        "Gita Reddy",
+        "Tuva Novotny",
+        "Luca Argentero",
+        "Rushita Singh"
+      ]
+    },
+    {
+      "title": "Spotlight",
+      "cast": [
+        "Mark Ruffalo",
+        "Michael Keaton",
+        "Rachel McAdams",
+        "Liev Schreiber",
+        "John Slattery",
+        "Stanley Tucci",
+        "Brian d'Arcy James",
+        "Gene Amoroso",
+        "Jamey Sheridan",
+        "Billy Crudup",
+        "Maureen Keiller",
+        "Richard Jenkins",
+        "Paul Guilfoyle",
+        "Len Cariou",
+        "Neal Huff",
+        "Michael Cyril Creighton",
+        "Laurie Heineman",
+        "Tim Progosh",
+        "Jimmy LeBlanc"
+      ]
+    }
+  ]
+}
